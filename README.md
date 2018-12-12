@@ -9,4 +9,4 @@ javascript:{let i=Math.floor(Math.random()*5000);if(i<10){i='00'+i}else if(i<100
 
 ---
 
-* Contributing: https://github.com/iterami/Documentation.htm/blob/gh-pages/CONTRIBUTING.md
+* Contributing: https://github.com/iterami/Docs.htm/blob/gh-pages/CONTRIBUTING.md
